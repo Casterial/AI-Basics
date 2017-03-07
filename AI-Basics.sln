@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI-Basics", "AI-Basics.csproj", "{FE5A8335-3516-CA96-5193-8B4E5DA6929E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI-Basics.Editor", "AI-Basics.Editor.csproj", "{155746C8-251F-79E9-AC85-49E2958B1136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5A8335-3516-CA96-5193-8B4E5DA6929E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5A8335-3516-CA96-5193-8B4E5DA6929E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5A8335-3516-CA96-5193-8B4E5DA6929E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5A8335-3516-CA96-5193-8B4E5DA6929E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155746C8-251F-79E9-AC85-49E2958B1136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155746C8-251F-79E9-AC85-49E2958B1136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155746C8-251F-79E9-AC85-49E2958B1136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155746C8-251F-79E9-AC85-49E2958B1136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
