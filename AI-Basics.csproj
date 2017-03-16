@@ -165,6 +165,7 @@
     <Compile Include="Assets\Imported Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\Imported Assets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\Imported Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\Scripts\Chase_1.cs" />
     <Compile Include="Assets\Scripts\camMouseLook.cs" />
     <Compile Include="Assets\Scripts\characterController.cs" />
     <Compile Include="Assets\Scripts\chase.cs" />
